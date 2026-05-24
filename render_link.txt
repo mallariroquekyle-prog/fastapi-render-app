@@ -1,2 +1,1 @@
-Paste your deployed Render app link here.
-Example: https://your-app-name.onrender.com
+https://fastapi-render-app-ui2h.onrender.com
